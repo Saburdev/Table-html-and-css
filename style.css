@@ -1,0 +1,11 @@
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+table,tr,td,td,th{
+    border: 1px solid black;
+    margin: 0;
+    border-collapse:collapse;
+}
